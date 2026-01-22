@@ -33,7 +33,7 @@ This is a full port of the disciplined software engineering capability system ("
 
 Simply ask Antigravity to help you with a task using the skill:
 
-> "Use Superpower to build a new React component for the login form."
+> "Use Superpower skill to build a new React component for the login form."
 
 The agent will load the Router (`SKILL.md`) and guide you through the phases:
 
